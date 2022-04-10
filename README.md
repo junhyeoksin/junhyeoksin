@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 <img
   src="https://img.shields.io/badge/java-007396?style=flat-square&logo=JAVA&logoColor=white"
 />
+<img
+  src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JS&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=white"
+/>
