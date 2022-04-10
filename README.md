@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=junhyeok%20&fontSize=90)
  
-###note
+
 <a href="https://float.tistory.com/"><img src="https://img.shields.io/badge/tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&color=dark)](https://github.com/eungyeole/velog-readme-stats)
