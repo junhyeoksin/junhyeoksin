@@ -7,23 +7,18 @@
  📧Email📧
 h-kun@naver.com
 
+ 
+ 💻Tech Stacks💻️
+ * * * 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=JAVA&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![SPRING](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![SPRINGBOOT](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](github.com/Joowon0220/TODO-List)
 
- ⚒️Tech Stack⚒️
-<img
-  src="https://img.shields.io/badge/java-007396?style=flat-square&logo=JAVA&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=JS&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"
-/>
+* * * 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
+It`S mE
+* * * 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
