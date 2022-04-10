@@ -1,7 +1,7 @@
 
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=junhyeok%20&fontSize=90)
- <div align=center> 
+ 
   <div/>
 ## ☁️SNS☁️
    <div/>
@@ -9,7 +9,7 @@
   <div/>
 ## 📧Email📧
 h-kun@naver.com
-
+ <div align=center> 
  
  💻Tech Stacks💻️
  * * * 
