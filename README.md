@@ -2,14 +2,14 @@
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=junhyeok%20&fontSize=90)
   <div align=center> 
-  <hr/>
+  <br/>
  ☁️SNS☁️
-   <hr/>
+   <br/>
 <a href="https://float.tistory.com/"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <hr/>
+  <br/>
  📧Email📧
 h-kun@naver.com
- <hr/>
+ <br/>
  
  💻Tech Stacks💻️
  * * * 
