@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=junhyeok%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=junhyeok%20render&fontSize=90)
  
 ###note
 <a href="https://float.tistory.com/"><img src="https://img.shields.io/badge/tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
