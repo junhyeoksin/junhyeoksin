@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+
+
+note
+<a href="https://float.tistory.com/"><img src="https://img.shields.io/badge/tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
