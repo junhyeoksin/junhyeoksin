@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 <a href="https://float.tistory.com/"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-
+<img
+  src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"
+/>
