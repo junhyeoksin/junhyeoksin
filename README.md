@@ -26,6 +26,7 @@ h-kun@naver.com
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/Joowon0220/TODO-List)
+[![MariaDB](https://img.shields.io/badge/MariaDB-6DB33F?style=flat-square&logo=MariaDB&logoColor=white)](github.com/Joowon0220/TODO-List) 
 * * * 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
  
