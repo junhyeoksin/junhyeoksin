@@ -29,7 +29,8 @@ h-kun@naver.com
 [![MariaDB](https://img.shields.io/badge/MariaDB-6DB33F?style=flat-square&logo=MariaDB&logoColor=white)](github.com/Joowon0220/TODO-List) 
 * * * 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
- 
+<!--  
 * * * 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+ -->
