@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=keystone%20&fontSize=60)
    
  **☁️keystorm☁️**
-  <a href="https://keystorm.co.kr/"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-  
+ https://keystorm.co.kr
   
 **☁️SNS☁️**
   <br/>
