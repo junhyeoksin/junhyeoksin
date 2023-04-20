@@ -35,7 +35,7 @@ gh1620@gmail.com
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](github.com/Joowon0220/TODO-List)
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
- <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+[![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]
 <!--[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/Joowon0220/TODO-List) -->
 <!--[![MariaDB](https://img.shields.io/badge/MariaDB-6DB33F?style=flat-square&logo=MariaDB&logoColor=white)](github.com/Joowon0220/TODO-List)  -->
 * * * 
