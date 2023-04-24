@@ -1,7 +1,7 @@
 #
  
 
-```bash
+```XML
 apiVersion: v28
 kind: Human
 metadata:
