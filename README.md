@@ -1,7 +1,7 @@
 #
  
 
-```XML
+```YAML
 apiVersion: v28
 kind: Human
 metadata:
