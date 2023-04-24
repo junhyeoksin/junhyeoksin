@@ -15,3 +15,11 @@ spec:  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;emoji: 🤦  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;food: 🥩  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;drink: 🥃  <br/>
+
+```java
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
