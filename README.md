@@ -9,8 +9,8 @@ spec:  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;type: Homepage  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: keystrom.co.kr  <br/>
   <br/>
-  favorites:  <br/>
-    number: 28  <br/>
-    emoji: 🤦  <br/>
-    food: 🥩  <br/>
-    drink: 🥃  <br/>
+&nbsp;&nbsp;favorites:  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;number: 28  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;emoji: 🤦  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;food: 🥩  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;drink: 🥃  <br/>
