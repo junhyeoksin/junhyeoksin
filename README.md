@@ -2,9 +2,9 @@
  
 
 ```java
-apiVersion: v28   <br/>
-kind: Human       <br/>
-metadata:  <br/>  
+apiVersion: v28   
+kind: Human       
+metadata: 
 &nbsp;&nbsp;name: junhyeok  <br/>
 spec:  <br/>
 &nbsp;&nbsp;purpose:  DevOps  <br/>
