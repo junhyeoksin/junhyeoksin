@@ -1,13 +1,13 @@
 apiVersion: v28   <br/>
 kind: Human       <br/>
 metadata:  <br/>  
-&nbsp;name: junhyeok  <br/>
+&nbsp;&nbsp;name: junhyeok  <br/>
 spec:  <br/>
-  purpose:  DevOps  <br/>
-  locations:  <br/>
-    -   <br/>
-      type: Homepage  <br/>
-      where: keystrom.co.kr  <br/>
+&nbsp;&nbsp;purpose:  DevOps  <br/>
+&nbsp;&nbsp;locations:  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;-   <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;type: Homepage  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: keystrom.co.kr  <br/>
   <br/>
   favorites:  <br/>
     number: 28  <br/>
