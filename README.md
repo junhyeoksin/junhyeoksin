@@ -1,29 +1,16 @@
-apiVersion: v47
-kind: Human
-metadata:
-  name: Bret Fisher
-spec:
-  purpose: Help others learn container DevOps
-  sponsorship: bretfisher.com/members
-  locations:
-    - 
-      type: YouTube Live Stream on Thursdays
-      where: bret.live
-    - 
-      type: Newsletter
-      where: bret.news
-    - 
-      type: Homepage
-      where: bretfisher.com
-    - 
-      type: Discord Server
-      where: devops.fan
-    -
-      type: Podcast
-      where: bretfisher.com/podcast
-  favorites:
-    number: 42
-    animal: 🐶
-    emoji: 🤦
-    food: 🥩
-    drink: 🥃
+apiVersion: v28   <br/>
+kind: Human       <br/>
+metadata:  <br/>  
+  name: junhyeok  <br/>
+spec:  <br/>
+  purpose:  DevOps  <br/>
+  locations:  <br/>
+    -   <br/>
+      type: Homepage  <br/>
+      where: keystrom.co.kr  <br/>
+  <br/>
+  favorites:  <br/>
+    number: 28  <br/>
+    emoji: 🤦  <br/>
+    food: 🥩  <br/>
+    drink: 🥃  <br/>
