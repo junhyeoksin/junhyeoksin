@@ -12,7 +12,9 @@ spec:
     - 
       type: Homepage
       where: keystrom.co.kr
-
+    - 
+      type: blog
+      where: float.tistory.com
   favorites:
     number: 28
     emoji: 🤦
