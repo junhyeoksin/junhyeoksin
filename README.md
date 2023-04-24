@@ -1,7 +1,7 @@
 #
  
 
-```java
+```json
 apiVersion: v28   
 kind: Human       
 metadata: 
