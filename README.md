@@ -1,7 +1,7 @@
 #
  
 
-```json
+```bash
 apiVersion: v28   
 kind: Human       
 metadata: 
