@@ -16,7 +16,7 @@ spec:
       type: blog
       where: float.tistory.com
   favorites:
-    number: 28
+    number: 29
     emoji: 🤦
     food: 🥩
     drink: 🥃
