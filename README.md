@@ -24,6 +24,5 @@ spec:
     drink: 🥃
 ```
 
- <img src="">
-![header_](https://github.com/junhyeoksin/junhyeoksin/assets/92718453/33529771-7408-431c-a8db-031ef1b96f59)
-
+ <img src="https://github.com/junhyeoksin/junhyeoksin/assets/92718453/33529771-7408-431c-a8db-031ef1b96f59">
+ 
