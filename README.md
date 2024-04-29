@@ -27,4 +27,4 @@ spec:
  <img src="https://github.com/junhyeoksin/junhyeoksin/assets/92718453/33529771-7408-431c-a8db-031ef1b96f59">
 
 
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
+ <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"> >
