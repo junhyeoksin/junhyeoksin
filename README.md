@@ -3,7 +3,7 @@
  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="mario" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
     
- <img src="https://github.com/junhyeoksin/junhyeoksin/assets/92718453/8217a95b-4aab-42ef-976a-cdfc4fafa71a" alt="LOGO" style="width: 50%; display: inline-block;">
+ <!--  <img src="https://github.com/junhyeoksin/junhyeoksin/assets/92718453/8217a95b-4aab-42ef-976a-cdfc4fafa71a" alt="LOGO" style="width: 50%; display: inline-block;"> -->
 
 ```YAML
 apiVersion: v29
@@ -25,7 +25,8 @@ spec:
     food: 🥩
     drink: 🥃
 ```
- 
+  <img src="https://github.com/junhyeoksin/junhyeoksin/assets/92718453/33529771-7408-431c-a8db-031ef1b96f59"> 
+
 
  
 
