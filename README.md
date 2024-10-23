@@ -11,7 +11,7 @@ kind: Human
 metadata:
   name: junhyeok
 spec:
-  purpose:  server engineer
+  purpose: server engineer
   locations:
     - 
       type: Homepage
