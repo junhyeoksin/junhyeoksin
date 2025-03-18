@@ -15,7 +15,7 @@ spec:
   locations:
     - 
       type: Homepage
-      where: keystrom.co.kr
+      where: web.keystrom.site
     - 
       type: blog
       where: float.tistory.com
