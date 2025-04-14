@@ -6,7 +6,7 @@
  <!--  <img src="https://github.com/junhyeoksin/junhyeoksin/assets/92718453/8217a95b-4aab-42ef-976a-cdfc4fafa71a" alt="LOGO" style="width: 50%; display: inline-block;"> -->
 
 ```YAML
-apiVersion: v29
+apiVersion: v30
 kind: Human
 metadata:
   name: junhyeok
